@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 935045b9ea8b346a18630e5b925114c0
+timeCreated: 1450545265
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Emma-shooting_0
+    21300002: Emma-shooting_1
+    21300004: Emma-shooting_2
+    21300006: Emma-shooting_3
+    21300008: Emma-shooting_4
+    21300010: Emma-shooting_5
+    21300012: Emma-shooting_6
+    21300014: Emma-shooting_7
+    21300016: Emma-shooting_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Emma-shooting_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 489
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: -107}
+        - {x: -50, y: -114}
+        - {x: -50, y: -130}
+        - {x: -30, y: -138}
+        - {x: -2, y: -137}
+        - {x: 24, y: -99}
+        - {x: 24, y: 154}
+        - {x: -65, y: 154}
+        - {x: -83, y: 150}
+        - {x: -83, y: -144}
+        - {x: -70, y: -154}
+        - {x: -30, y: -154}
+        - {x: -25, y: -152}
+        - {x: -30, y: -144}
+        - {x: -33, y: -140}
+        - {x: -56, y: -127}
+      - - {x: 25, y: 15}
+        - {x: 28, y: 16}
+        - {x: 28, y: 19}
+        - {x: 25, y: 20}
+        - {x: 23, y: 18}
+    - name: Emma-shooting_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 505
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Emma-shooting_2
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 489
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.97809, y: 154}
+        - {x: -82.97809, y: 146}
+        - {x: -82.97809, y: -154}
+        - {x: 22.021912, y: -154}
+        - {x: 44.02191, y: -119}
+        - {x: 44.02191, y: 109}
+        - {x: 10.021912, y: 154}
+      - - {x: 39.02191, y: 38}
+        - {x: 42.02191, y: 39}
+        - {x: 42.02191, y: 42}
+        - {x: 39.02191, y: 43}
+        - {x: 37.02191, y: 41}
+    - name: Emma-shooting_3
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 0
+        width: 489
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.61841, y: -117}
+        - {x: -47.61841, y: -126}
+        - {x: -42.61841, y: -132}
+        - {x: -27.618408, y: -136}
+        - {x: -5.618408, y: -136}
+        - {x: 2.3815918, y: -132}
+        - {x: 7.381592, y: -124}
+        - {x: 2.3815918, y: -117}
+        - {x: 10.381592, y: 1}
+        - {x: 8.381592, y: 6}
+        - {x: 50.38159, y: 16}
+        - {x: 53.38159, y: 29}
+        - {x: 53.38159, y: 42}
+        - {x: 49.38159, y: 46}
+        - {x: 27.381592, y: 154}
+        - {x: -82.61841, y: 154}
+        - {x: -82.61841, y: -154}
+        - {x: -25.618408, y: -154}
+        - {x: -26.618408, y: -147}
+        - {x: -30.618408, y: -139}
+        - {x: -53.61841, y: -128}
+      - - {x: 45.38159, y: 56}
+        - {x: 48.38159, y: 57}
+        - {x: 48.38159, y: 60}
+        - {x: 45.38159, y: 61}
+        - {x: 43.38159, y: 59}
+    - name: Emma-shooting_4
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 0
+        width: 489
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.464905, y: -128}
+        - {x: 63.464905, y: -75}
+        - {x: 63.464905, y: 127}
+        - {x: 46.464905, y: 154}
+        - {x: -82.535095, y: 154}
+        - {x: -82.535095, y: -145}
+        - {x: -68.535095, y: -154}
+        - {x: -29.535095, y: -154}
+        - {x: -25.535095, y: -153}
+        - {x: -27.535095, y: -142}
+        - {x: -32.535095, y: -138}
+        - {x: -1.5350952, y: -136}
+      - - {x: 49.464905, y: 81}
+        - {x: 52.464905, y: 82}
+        - {x: 52.464905, y: 85}
+        - {x: 49.464905, y: 86}
+        - {x: 47.464905, y: 84}
+    - name: Emma-shooting_5
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 0
+        width: 489
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.64038, y: -126}
+        - {x: -42.64038, y: -133}
+        - {x: -31.64038, y: -136}
+        - {x: 1.3596191, y: -137}
+        - {x: 11.359619, y: -121}
+        - {x: 67.35962, y: 33}
+        - {x: 67.35962, y: 117}
+        - {x: 1.3596191, y: 154}
+        - {x: -82.64038, y: 154}
+        - {x: -82.64038, y: -146}
+        - {x: -72.64038, y: -154}
+        - {x: -28.64038, y: -154}
+        - {x: -23.64038, y: -143}
+        - {x: -53.64038, y: -127}
+        - {x: -46.64038, y: -110}
+      - - {x: 44.35962, y: 105}
+        - {x: 47.35962, y: 106}
+        - {x: 47.35962, y: 109}
+        - {x: 44.35962, y: 110}
+        - {x: 42.35962, y: 108}
+    - name: Emma-shooting_6
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 0
+        width: 489
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.0043945, y: -128}
+        - {x: 2.0043945, y: -116}
+        - {x: 66.004395, y: 51}
+        - {x: 66.004395, y: 74}
+        - {x: 63.004395, y: 76}
+        - {x: 39.004395, y: 83}
+        - {x: 1.0043945, y: 144}
+        - {x: -9.995605, y: 154}
+        - {x: -82.995605, y: 154}
+        - {x: -82.995605, y: -154}
+        - {x: -28.995605, y: -154}
+        - {x: -24.995605, y: -153}
+        - {x: -28.995605, y: -143}
+        - {x: -30.995605, y: -140}
+        - {x: -2.9956055, y: -136}
+      - - {x: 51.004395, y: 92}
+        - {x: 52.004395, y: 89}
+        - {x: 55.004395, y: 89}
+        - {x: 57.004395, y: 91}
+        - {x: 56.004395, y: 94}
+        - {x: 53.004395, y: 94}
+    - name: Emma-shooting_7
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 0
+        width: 489
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61.75, y: 154}
+        - {x: -78.25, y: 154}
+        - {x: -81.25, y: 152}
+        - {x: -81.25, y: -148}
+        - {x: -60.25, y: -154}
+        - {x: -14.25, y: -154}
+        - {x: 20.75, y: -133}
+        - {x: 83.75, y: -21}
+        - {x: 83.75, y: 140}
+      - - {x: 55.75, y: 89}
+        - {x: 58.75, y: 90}
+        - {x: 58.75, y: 93}
+        - {x: 55.75, y: 94}
+        - {x: 53.75, y: 92}
+    - name: Emma-shooting_8
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 0
+        width: 489
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.578857, y: -154}
+        - {x: 83.57886, y: -37}
+        - {x: 83.57886, y: 144}
+        - {x: 67.57886, y: 154}
+        - {x: -71.42114, y: 154}
+        - {x: -81.42114, y: 147}
+        - {x: -81.42114, y: 31}
+        - {x: -69.42114, y: -13}
+        - {x: -81.42114, y: -133}
+        - {x: -81.42114, y: -144}
+        - {x: -63.421143, y: -154}
+        - {x: -28.421143, y: -154}
+        - {x: -25.421143, y: -151}
+        - {x: -26.421143, y: -144}
+        - {x: -12.421143, y: -154}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

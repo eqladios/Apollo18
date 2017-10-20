@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 93a77de26553b48ad998c3c8682e1555
+timeCreated: 1450545135
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Emma-jumping_0
+    21300002: Emma-jumping_1
+    21300004: Emma-jumping_2
+    21300006: Emma-jumping_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Emma-jumping_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 599
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.370087, y: -181.5}
+        - {x: 116.62991, y: -120.5}
+        - {x: 58.629913, y: 4.5}
+        - {x: 129.62991, y: 83.5}
+        - {x: 157.62991, y: 113.5}
+        - {x: 158.62991, y: 125.5}
+        - {x: 158.62991, y: 210.5}
+        - {x: 136.62991, y: 224.5}
+        - {x: 122.62991, y: 218.5}
+        - {x: 115.62991, y: 198.5}
+        - {x: 107.62991, y: 179.5}
+        - {x: 114.62991, y: 216.5}
+        - {x: 72.62991, y: 239.5}
+        - {x: -10.370087, y: 239.5}
+        - {x: -51.370087, y: 213.5}
+        - {x: -71.37009, y: 58.5}
+        - {x: -71.37009, y: -81.5}
+        - {x: -157.37009, y: -156.5}
+        - {x: -157.37009, y: -210.5}
+        - {x: -153.37009, y: -236.5}
+        - {x: -144.37009, y: -239.5}
+        - {x: -117.37009, y: -239.5}
+        - {x: -116.37009, y: -237.5}
+        - {x: -66.37009, y: -149.5}
+        - {x: -43.370087, y: -186.5}
+    - name: Emma-jumping_1
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 0
+        width: 481
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.56671, y: -68}
+        - {x: 18.566711, y: -4}
+        - {x: 112.56671, y: 3}
+        - {x: 127.56671, y: 12}
+        - {x: 127.56671, y: 55}
+        - {x: 58.56671, y: 71}
+        - {x: 80.56671, y: 190}
+        - {x: 55.56671, y: 211}
+        - {x: -67.43329, y: 211}
+        - {x: -126.43329, y: 89}
+        - {x: -126.43329, y: 31}
+        - {x: -89.43329, y: -35}
+        - {x: -25.433289, y: -94}
+        - {x: -106.43329, y: -120}
+        - {x: -123.43329, y: -211}
+        - {x: -36.43329, y: -211}
+        - {x: -0.43328857, y: -205}
+        - {x: -14.433289, y: -149}
+        - {x: 78.56671, y: -102}
+    - name: Emma-jumping_2
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 3
+        width: 373
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.61853, y: -65.42206}
+        - {x: 65.61853, y: -52.42206}
+        - {x: 60.61853, y: -47.42206}
+        - {x: 35.61853, y: -27.422058}
+        - {x: 26.61853, y: -20.422058}
+        - {x: 89.61853, y: -15.422058}
+        - {x: 98.61853, y: 16.577942}
+        - {x: 98.61853, y: 39.57794}
+        - {x: 51.61853, y: 126.57794}
+        - {x: 70.61853, y: 199.57794}
+        - {x: 27.61853, y: 232.57794}
+        - {x: -64.38147, y: 232.57794}
+        - {x: -98.38147, y: 160.57794}
+        - {x: -98.38147, y: -19.422058}
+        - {x: -97.38147, y: -30.422058}
+        - {x: -64.38147, y: -172.42206}
+        - {x: -12.38147, y: -231.42206}
+        - {x: 95.61853, y: -231.42206}
+        - {x: 98.61853, y: -230.42206}
+        - {x: 98.61853, y: -167.42206}
+        - {x: 57.61853, y: -108.42206}
+    - name: Emma-jumping_3
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 0
+        width: 287
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.953613, y: -209.5}
+        - {x: 46.953613, y: -119.5}
+        - {x: 76.95361, y: -38.5}
+        - {x: 76.95361, y: -29.5}
+        - {x: 75.95361, y: -23.5}
+        - {x: 48.953613, y: 32.5}
+        - {x: 70.95361, y: 81.5}
+        - {x: 76.95361, y: 140.5}
+        - {x: 76.95361, y: 244.5}
+        - {x: 62.953613, y: 253.5}
+        - {x: -6.0463867, y: 253.5}
+        - {x: -59.046387, y: 233.5}
+        - {x: -61.046387, y: 155.5}
+        - {x: -65.04639, y: 51.5}
+        - {x: -27.046387, y: -82.5}
+        - {x: -75.04639, y: -176.5}
+        - {x: -75.04639, y: -211.5}
+        - {x: -56.046387, y: -235.5}
+        - {x: 18.953613, y: -253.5}
+        - {x: 67.95361, y: -253.5}
+        - {x: 76.95361, y: -249.5}
+        - {x: 76.95361, y: -229.5}
+        - {x: 68.95361, y: -217.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
